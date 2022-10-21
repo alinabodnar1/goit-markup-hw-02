@@ -168,7 +168,7 @@ body{
 footer{
     background-color: var(--bg-accent-color);
 }
-.white-part {
+.white-part{
     color: var(--primary-bg-color);
 }
 .address .street{ 
